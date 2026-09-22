@@ -17,3 +17,9 @@ Clone the repository and install dependencies:
 git clone https://github.com/T4KURO-KUN/CustomReverseXOR.git
 cd CustomReverseXOR
 pip install -r requirements.txt
+```
+
+## Usage
+Run the script using Python:
+```Bash
+python tui-custom-hash.py
